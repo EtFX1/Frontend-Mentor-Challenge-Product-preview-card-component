@@ -88,7 +88,7 @@ I want to continue to get comfortable with building out layouts in CSS flexbox a
 ## Author
 
 - Frontend Mentor - [@ETFX1](https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/EtFX1)
-- - GitHub - [@EtFX1](https://github.com/EtFX1)
+- GitHub [@EtFX1](https://github.com/EtFX1)
 
 ## Acknowledgments
 
