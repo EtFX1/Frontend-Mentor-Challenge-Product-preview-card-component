@@ -1,0 +1,136 @@
+/* *backgrond color */
+
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3%;
+  height: 100vh;
+}
+
+/* *entire card */
+.card {
+  display: flex;
+  flex-direction: column;
+  max-width: 90%;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 0.625rem;
+  overflow: hidden;
+}
+
+/* *card image */
+img {
+  width: 100%;
+  border-top-left-radius: 0.625rem;
+  border-top-right-radius: 0.625rem;
+}
+
+/* *everything below/beside the image */
+.card-content {
+  padding: 5%;
+}
+
+h2,
+h3,
+p,
+h4,
+button {
+  font-family: "Montserrat", sans-serif;
+}
+
+p,
+h4,
+button {
+  font-size: 0.9375rem;
+}
+
+h1,
+h2 {
+  font-family: "Fraunces", serif;
+}
+
+/* *PERFUME */
+
+h3 {
+  font-weight: 500;
+  color: hsl(228, 12%, 48%);
+  letter-spacing: 0.3125rem;
+  font-size: 0.75rem;
+}
+
+/* *"Gabrielle Essence Eau De Parfum"  */
+h1 {
+  margin-top: 0.625rem;
+  font-size: 2.1875rem;
+}
+
+/* *paragraph */
+p {
+  line-height: 1.6;
+  color: hsl(228, 12%, 48%);
+  margin-bottom: 0;
+}
+
+/* *contains the 2 prices */
+.prices-container {
+  display: flex;
+  align-items: center;
+}
+
+/* *"$149.99" */
+h2.discount-price {
+  font-size: 2.1rem;
+  color: hsl(158, 36%, 37%);
+  margin: 8% 7% 9% 0;
+}
+
+/* *"$169.99" */
+h4.original-price {
+  font-weight: 500;
+  text-decoration: line-through;
+  color: hsl(228, 12%, 48%);
+  margin: 3% 0;
+}
+
+button {
+  color: hsl(0, 0%, 100%);
+  border-radius: 0.625rem;
+  background-color: hsl(158, 36%, 37%);
+  padding: 6% 1%;
+  border: none;
+  width: 100%;
+}
+
+/* *button icon */
+svg {
+  position: relative;
+  margin-right: 0.625rem;
+}
+
+button:hover {
+  background-color: hsl(156, 34%, 16%);
+}
+
+/* ?media query to change card to a horizontal card above 700px */
+@media (min-width: 700px) {
+  .card {
+    display: flex;
+    flex-direction: row;
+    /* ? width of card in pixels so that the size doesn't change going upward */
+    width: 41.25rem;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  img {
+    border-radius: 0;
+    width: 48%;
+    object-fit: cover;
+  }
+}
