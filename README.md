@@ -48,7 +48,7 @@ Desktop Screenshot
 
 I learned how to build containers just like in my first [Fontend Mentor Project](https://github.com/EtFX1/Frontend-Mentor-challenge-QR-code-component). I also learned how to use CSS flexbox to make components responsive. 
 
-This media query was the secret to making this website responsive. And will flexbox, its really easy and convinient. 
+This media query was the secret to making this website responsive. And with flexbox, its really easy and convinient. 
 
 ```css
 /* ?media query to change card to a horizontal card above 700px */
@@ -75,20 +75,20 @@ This media query was the secret to making this website responsive. And will flex
 
 ### Continued development
 
-I want to continue to get comfortable with building out layouts in CSS flexbox and eventually CSS grid. So even if I choose to use a framework like Bootstrap in the future, I'll understand it a lot better. Also i can't wait for CSS container queries to be supported in all browsers. They'll replace media queries for sure. 
+I want to continue to get comfortable with building out layouts in CSS flexbox and eventually CSS grid. So even if I choose to use a framework like Bootstrap in the future, I'll understand it a lot better. Also I've looked into CSS @container queries, a possible replacement for @mediaqueries and can't wait for them to be supported in all browsers.
 
 
 ### Useful resources
 
 - [The Ultimate CSS3 Flexbox Tutorial - Colt's Code Camp](https://www.youtube.com/watch?v=qZv-rNx0jEA) - This helped me to understand the basics of Flexbox. It's long, but it will break it down so well that it's worth the time!
 - [Learn CSS Basics by Building a Card Component](https://www.freecodecamp.org/news/learn-css-basics-by-building-a-card-component/) - This is an amazing article which helped me understand how cards are built in CSS, and it teaches CSS basics while you're at it!
-- [The OG Flexbox article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) -  Look nowhere else if you want a simple and clear understanding of CSS flexbox. It will demystify anything that has to do with FlexBox
+- [The OG Flexbox article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) -  Look nowhere else if you want a simple and clear understanding of CSS flexbox. It will properly explain all the values, AND their properties. 
 
 
 ## Author
 
 - Frontend Mentor - [@ETFX1](https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/EtFX1)
-- GitHub [@EtFX1](https://github.com/EtFX1)
+- GitHub - [@EtFX1](https://github.com/EtFX1)
 
 ## Acknowledgments
 
