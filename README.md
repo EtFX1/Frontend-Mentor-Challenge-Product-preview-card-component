@@ -33,7 +33,7 @@ Mobile Screenshot
 ![](./mobile_screenshot.png)
 
 Desktop Screenshot
-![](.?/desktop_screenshot.png)
+![](./desktop_screenshot.png)
 
 
 
