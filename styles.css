@@ -1,5 +1,4 @@
-/* *backgrond color */
-
+/* *background color */
 body {
   background-color: hsl(30, 38%, 92%);
 }
@@ -15,7 +14,7 @@ body {
 
 @media (min-width: 510px) and (max-width: 700px) {
   #container {
-    padding: 20% 0;
+    padding: 20% 0; /* *adds extra top and bottom padding between 510px and 700 px */
   }
 }
 
@@ -124,9 +123,9 @@ button:hover {
 /* ?media query to change card to a horizontal card above 700px */
 @media (min-width: 701px) {
   .card {
+    width: 41.25rem; /*hardcoded card width, so that the size of the card doesn't change as viewport width increases*/
     display: flex;
     flex-direction: row;
-    width: 41.25rem; /*hardcoded card width, so that the size of the card doesn' change going upward*/
   }
 
   /* *prevents the mobile image from being displayed when viewport width its >700px */
@@ -135,7 +134,7 @@ button:hover {
   }
 
   .desktop-image {
-    display: inline-block;
+    display: inline; /*? changes display back from none (when the viewport was <=700 px) to inline (inline because we don't want to change the width) */
     border-radius: 0;
     width: 45%;
     object-fit: cover;
