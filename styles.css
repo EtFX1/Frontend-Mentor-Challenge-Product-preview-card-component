@@ -126,8 +126,7 @@ button:hover {
   .card {
     display: flex;
     flex-direction: row;
-    /* ? width of card in pixels so that the size doesn't change going upward */
-    width: 41.25rem;
+    width: 41.25rem; /*hardcoded card width, so that the size of the card doesn' change going upward*/
   }
 
   /* *prevents the mobile image from being displayed when viewport width its >700px */
