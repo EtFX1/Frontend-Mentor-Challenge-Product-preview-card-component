@@ -36,7 +36,7 @@ Desktop Screenshot
 ### Links
 
 - [Solution URL](https://github.com/EtFX1/Frontend-Mentor-Challenge-Product-preview-card-component)
-- [Live Site URL](https://etfx1.github.io/FrontendT-Mentor-Challenge-Product-preview-card-component/)
+- [Live Site URL](https://etfx1.github.io/Frontend-Mentor-Challenge-Product-preview-card-component/)
 
 ## My process
 
