@@ -1,6 +1,8 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
+
+Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -87,7 +89,7 @@ I want to continue to get comfortable with building out layouts in CSS flexbox a
 
 ## Author
 
-- Frontend Mentor - [@ETFX1](https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/EtFX1)
+- Frontend Mentor - [@ETFX1](https://www.frontendmentor.io/profile/EtFX1)
 - GitHub - [@EtFX1](https://github.com/EtFX1)
 
 ## Acknowledgments
